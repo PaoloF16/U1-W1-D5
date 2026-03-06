@@ -1,0 +1,178 @@
+
+body{
+    width:100%;
+    font-family:"Open Sans", sans-serif;
+}
+
+main{
+    margin-top:0;
+    text-align:center;
+}
+
+img{
+    max-width:100%;
+}
+
+
+header{
+    background-color:black;
+}
+
+.logobox{
+    text-align:left;
+    width:auto;
+    padding:1.5em 2em;
+}
+
+.logobox img{
+    width:12vw;
+}
+
+
+.topbox{
+    background-image:url("../../Esercizio/images/banner.jpg");
+    background-size:cover;
+    background-position:center;
+    text-align:center;
+    padding:4em 2em;
+    width:100%;
+}
+
+.btnbox{
+    display:inline-block;
+    background-color:#f04c2f;
+    color:white;
+    font-weight:bold;
+    padding:0.8em 1.8em;
+    border-radius:5px;
+    margin-top:1em;
+}
+
+h1,h2,h3,h4{
+    font-family:"Montserrat", sans-serif;
+    font-weight:bold;
+}
+
+h1{
+    font-size:2.5em;
+    color:white;
+}
+
+h2{
+    font-size:2.3em;
+    color:#289fc3;
+}
+
+h3{
+    font-size:1.5em;
+    color:#289fc3;
+    margin-top:1.5em;
+}
+
+h4{
+    font-size:2.5em;
+    color:white;
+    margin-bottom:1em;
+}
+
+p{
+    font-size:1.4em;
+    line-height:1.6em;
+}
+
+
+.secsecond{
+    width:100%;
+    padding:4em 0;
+}
+
+.midbox{
+    width:85%;
+    margin:0 auto;
+    display: inline-block;
+}
+
+.imgmid{
+    width:35%;
+    display:inline-block;
+    vertical-align:middle;
+    text-align:center;
+}
+
+.imgmid img{
+    width:100%;
+    max-width:320px;
+    border-radius:50%;
+}
+
+.textmid{
+    width:60%;
+    display:inline-block;
+    vertical-align:middle;
+    text-align:right;
+}
+
+
+.autorbox{
+    background-color:#f04c2f;
+    text-align:center;
+    padding:3em 2em;
+    color:white;
+}
+
+.autorbox > p:first-of-type{
+    font-size:1.6em;
+    font-style:italic;
+}
+
+#nameautor{
+    font-size:1.6em;
+}
+.midbox2{
+    text-align:center;
+    margin:3em 0;
+}
+
+.imgbox{
+    display:inline-block;
+    vertical-align:top;
+    width:26%;
+    margin:1em;
+    padding:0 0 1.5em 0;
+    border:1px solid gray;
+    text-align:center;
+}
+
+.imgbox img{
+    width:100%;
+    display:block;
+}
+
+
+.footerbox{
+    background-color:#289fc3;
+    text-align:center;
+    color:white;
+    padding:3em 2em;
+}
+
+.footerbox p{
+    margin:0.5em 0;
+}
+
+.footerbox a{
+    color:white;
+}
+
+i{
+    padding:0.5em;
+}
+.imgmid{
+    text-align: left;
+
+}
+.textcol{
+    text-align: right;
+    display: inline-block;
+    
+}
