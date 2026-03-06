@@ -83,27 +83,24 @@ p{
 
 .secsecond {
     width:100%;
-    padding:4em 0;
+    padding:2em 0;
     display: inline-block;
     
 }
 
-.imgmid{
-    width:35%;
-    display:inline-block;
-    vertical-align: left;
 
-}
 
 .imgmid img{
     width:50%;
     max-width:320px;
     border-radius: 100%;
+    float: inline-start
 }
 
 .textmid{
-    width:60%;
-    display:inline-block;
+    width:40%;
+    float: inline-end;
+    
 }
 
 
