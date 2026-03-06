@@ -1,0 +1,152 @@
+/* Your styles here */
+body {
+    width: 100%;
+    font-family: "Open Sans", sans-serif;
+}
+
+header {
+    background-color: black;
+
+}
+
+.logobox {
+    text-align: center;
+}
+.btnbox {
+    display: inline-block;
+    background-color: #f04c2f; 
+    color: white;
+    font-weight: bold;
+    padding: 0.8em 1.8em;
+    border-radius: 5px;
+    margin-top: 1em;
+}   
+.topbox {
+    background-image: url("../../Esercizio/images/banner.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 4em 2em;
+    height: 30%;
+}
+
+.logobox,
+.topbox,
+.bottom,
+.footerbox {
+    padding: 1em;
+}
+
+.midbox {
+    padding: 3em 2em;
+    text-align: center;
+}
+.midbox> img{
+    border-radius: 100px;
+}
+
+.autorbox {
+    background-color:#f04c2f;
+    text-align: center;
+    padding: 3em 2em;
+    color: white;
+
+}
+
+main {
+    margin-top: 3%;
+    text-align: center;
+
+
+}
+
+h2 {
+    font-size: 2.3em;
+    color: #289fc3;
+    font-style: sans-serif;
+    line-height: 1;
+    font-weight: bold;
+
+}
+
+p {
+    font-size: 1.4em;
+    font-style: sans-serif;
+    line-height: 1.66em;
+
+}
+
+h3 {
+    font-size: 1.5em;
+    color: #289fc3;
+    font-style: sans-serif;
+    line-height: 1em;
+    font-weight: bold;
+    margin-top: 1.5em;
+
+}
+
+h4 {
+    font-size: 2.5em;
+    color: hsl(180, 20%, 99%);
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: hsl(180, 20%, 99%);
+    margin: 0.2em;
+    text-align: unset;
+}
+
+.autorbox>p {
+    font-size: 1.3em;
+    color: white;
+    font-style: italic;
+}
+
+.autorbox> #nameautor {
+    font-size: 1.6em;
+}
+
+img {
+    width: 100%;
+    
+}
+
+.midbox2 .imgbox img{
+    width: 100%;
+    text-align: center;
+    padding: 1%;;
+}
+.imgbox{
+    margin: 1em;
+    padding: 2.5em;
+    border: 1px solid gray;
+    box-shadow: 1px 1px 1px 1px;
+}
+.footerbox {
+    background-color: #289fc3;
+    text-align: center;
+    color: white;
+    padding: 3em 2em;
+}
+
+.footerbox>p{
+    margin: 0.5em 0;
+}
+.footerbox a {
+    color: white;
+
+}
+
+h2, h4, h3, h1{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    line-height: 1.5em;
+
+}
+i{
+    padding: 0.5em;
+}
