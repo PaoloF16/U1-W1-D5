@@ -11,6 +11,7 @@ header {
 
 .logobox {
     text-align: center;
+    max-width: 20vw;
 }
 .btnbox {
     display: inline-block;
